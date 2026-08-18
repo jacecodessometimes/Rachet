@@ -3,6 +3,6 @@ Rachet is an open source project designed to help beginners get into game develo
 I encourage exploration with this tool such as sharing block designs with other users, suggesting new blocks, or just experimenting.
 This the first ever project posted under my profile. I am somewhat new to roblox development so I may not have all features that may be needed.
 How to install-
-1. Download Rachet.exe and Rachet.rbxm
+1. Download and Rachet.rbxm
 2. Put Rachet.rxbm in your %localappdata%/roblox/plugins folder
-3. Either use the tool through studio or through the exe.
+3. Use the plugin through studio.
